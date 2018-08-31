@@ -1,18 +1,20 @@
 * Where is the project currently hosted?
 
 
-* Is the project written only in Go, or does it contain other languages (beyond scripts)?
+* What languages other than Go does the project utilize?
 
 
-* Has the project had any recent activity?
+* When was the project's last activity?
 
 
 * Does the project have a maintainer, or a maintainer looking for someone to take
   over the project?
 
-* Are there active projects which replicate the popular functionality of this project?
 
-* Do you have any example projects that make use of this package?
+* What active projects replicate the popular functionality of this project, if any?
+
+
+* What are some example projects that make use of this package?
 
 
 * Are there any outstanding **_critical_** bugs that result in the library being
@@ -22,5 +24,5 @@
 * Please provide a link to the project importers from https://godoc.org. Example: https://godoc.org/github.com/gofrs/uuid?importers
 
 
-* Is there anything else you'd like to mention about the project?
+* What else would you like to mention about the project?
 
