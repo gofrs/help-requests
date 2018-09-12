@@ -15,3 +15,6 @@ If you feel there's a project that would benefit from our help, please open an
 issue above. The issue itself will have some questions that you can answer to
 help us discover more about the project. From there we can begin to evaluate the
 project, and our ability to properly support it.
+
+We've also started writing a script that tries to find projects which are highly
+used, but also lacking recent updates.
